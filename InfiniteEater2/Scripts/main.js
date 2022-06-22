@@ -6,7 +6,7 @@ var app;
 var settings = 
 {
     paused: false,
-    numberFormatType: 0
+    numberFormatType: x_x
 };
 var player;
 var statistics = 
