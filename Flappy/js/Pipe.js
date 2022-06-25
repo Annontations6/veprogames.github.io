@@ -1,3 +1,5 @@
+import lol;
+
 function Pipe(x, y, height, width, type)
 {
     this.x = x;
